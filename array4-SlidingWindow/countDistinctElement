@@ -1,0 +1,16 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
+class Coding{
+    public:
+    int countDistinctInSubArray(vector<int>&arr, int k){
+
+        vector<int>ans;
+        
+
+        for(int i =0; i<n; i++){
+
+        }
+    }
+}
